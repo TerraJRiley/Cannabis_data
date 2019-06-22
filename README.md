@@ -1,0 +1,2 @@
+# Cannabis_data
+With marijuana now legal in California, it's now greatly important to gather data on the newly legal drug.  With much of the industry [unregulated and confusing and so much unknown about it] I decided to take the opportunity to do some of my own exploration of the data on the effects on cannabis when treating depression, anxiety and stress.  This data was retrieved from the following study by Strainprint https://www.sciencedirect.com/science/article/pii/S0165032718303100
