@@ -1,0 +1,40 @@
+model,train_Median,test_Median,time,run_notes
+LinearRegression,1.1278999078625809,1.1649522477348735,"08/15/2019, 13:41:47",None
+LinearRegression,1.2180226345718723,1.2180226345718723,"08/15/2019, 13:41:48","Only ""Before"" & ""symptom_a"" features."
+RandomForestRegressor,0.3,0.8999999999999999,"08/15/2019, 13:42:18",None
+RandomForestRegressor,0.3,0.8999999999999999,"08/15/2019, 13:43:22",Run with all the engineered features
+RandomForestRegressor,0.3,0.8999999999999999,"08/15/2019, 13:43:24",Run with all engineered features and normalized.
+RandomForestRegressor,0.3999999999999999,1.1,"08/15/2019, 13:44:54",Pruned Features
+RandomForestRegressor,0.3,1.0999999999999996,"08/15/2019, 13:45:43",Run with splits along sesson15.
+RandomForestRegressor,0.2999999999999998,1.0,"08/15/2019, 13:45:48",Run with splits along sesson1.
+RandomForestRegressor,0.3,0.8999999999999999,"08/15/2019, 13:45:49",Run with splits along sesson5.
+RandomForestRegressor,0.3,0.75,"08/15/2019, 13:46:11",Run with splits along sesson10.
+RandomForestRegressor,0.3,1.0,"08/15/2019, 13:47:42",Run with splits along sesson1.
+RandomForestRegressor,0.3,0.8999999999999999,"08/15/2019, 13:47:43",Run with splits along sesson5.
+RandomForestRegressor,0.3,0.8999999999999999,"08/15/2019, 13:47:44",Run with splits along sesson10.
+RandomForestRegressor,0.2999999999999998,0.7,"08/15/2019, 13:48:16",Run with splits along sesson15.
+RandomForestRegressor,0.2999999999999998,1.1,"08/15/2019, 13:49:03",Run with splits along sesson0.
+RandomForestRegressor,0.3,1.0,"08/15/2019, 13:49:03",Run with splits along sesson1.
+RandomForestRegressor,0.2999999999999998,0.9000000000000004,"08/15/2019, 13:49:04",Run with splits along sesson2.
+RandomForestRegressor,0.3,0.9500000000000002,"08/15/2019, 13:49:05",Run with splits along sesson3.
+RandomForestRegressor,0.2999999999999998,0.8999999999999999,"08/15/2019, 13:49:05",Run with splits along sesson4.
+RandomForestRegressor,0.3,1.0,"08/15/2019, 13:49:06",Run with splits along sesson5.
+RandomForestRegressor,0.2999999999999998,0.8,"08/15/2019, 13:49:06",Run with splits along sesson6.
+RandomForestRegressor,0.2999999999999998,0.8,"08/15/2019, 13:49:07",Run with splits along sesson7.
+RandomForestRegressor,0.3,0.7999999999999998,"08/15/2019, 13:49:07",Run with splits along sesson8.
+RandomForestRegressor,0.2999999999999998,0.7999999999999998,"08/15/2019, 13:49:08",Run with splits along sesson9.
+RandomForestRegressor,0.3,0.8000000000000004,"08/15/2019, 13:49:09",Run with splits along sesson10.
+RandomForestRegressor,0.2999999999999998,1.0,"08/15/2019, 13:49:09",Run with splits along sesson11.
+RandomForestRegressor,0.3,0.8,"08/15/2019, 13:49:10",Run with splits along sesson12.
+RandomForestRegressor,0.3,0.65,"08/15/2019, 13:49:10",Run with splits along sesson13.
+RandomForestRegressor,0.2999999999999998,0.7999999999999998,"08/15/2019, 13:49:11",Run with splits along sesson14.
+RandomForestRegressor,0.2999999999999998,0.7999999999999998,"08/15/2019, 13:49:12",Run with splits along sesson15.
+RandomForestRegressor,0.2999999999999998,0.8,"08/15/2019, 13:49:12",Run with splits along sesson16.
+RandomForestRegressor,0.2999999999999998,0.7,"08/15/2019, 13:49:13",Run with splits along sesson17.
+RandomForestRegressor,0.3,0.8,"08/15/2019, 13:49:14",Run with splits along sesson18.
+RandomForestRegressor,0.3,0.7999999999999998,"08/15/2019, 13:49:14",Run with splits along sesson19.
+RandomForestRegressor,0.3,0.8,"08/15/2019, 13:49:15",Run with splits along sesson20.
+RandomForestRegressor,0.2999999999999998,0.7999999999999998,"08/15/2019, 13:49:16",Run with splits along sesson21.
+RandomForestRegressor,0.2999999999999998,0.8,"08/15/2019, 13:49:17",Run with splits along sesson22.
+RandomForestRegressor,0.3,0.7999999999999998,"08/15/2019, 13:49:17",Run with splits along sesson23.
+RandomForestRegressor,0.2999999999999998,0.7000000000000001,"08/15/2019, 13:49:18",Run with splits along sesson24.

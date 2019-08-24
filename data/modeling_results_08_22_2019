@@ -1,0 +1,29 @@
+model,train_Median,test_Median,time,run_notes
+RandomForestRegressor,0.30000000000000004,0.8999999999999999,"08/22/2019, 14:18:38",Run with all the engineered features
+RandomForestRegressor,0.3,0.8500000000000003,"08/22/2019, 14:18:39",Run with all engineered features and normalized.
+RandomForestRegressor,0.3,0.9,"08/22/2019, 14:18:39",Run with all engineered features and MinMaxed.
+RandomForestRegressor,0.3,0.8999999999999999,"08/22/2019, 14:18:40",Run with all engineered features and Standardized.
+RandomForestRegressor,0.3,0.8999999999999999,"08/22/2019, 14:19:00",Run with all engineered features and normalized.
+RandomForestRegressor,0.2999999999999998,0.8999999999999999,"08/22/2019, 14:19:05",Run with all engineered features and normalized.
+RandomForestRegressor,0.3,0.8999999999999999,"08/22/2019, 14:19:07",Run with all engineered features and normalized.
+RandomForestRegressor,0.3999999999999999,1.1,"08/22/2019, 14:35:14",Pruned Features
+"GridSearchCV(cv=3, error_score='raise',
+       estimator=RandomForestRegressor",0.3700000000000001,1.01,"08/22/2019, 15:29:03","Best Params: {'max_features': 'auto', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 100}"
+"GridSearchCV(cv=3, error_score='raise',
+       estimator=RandomForestRegressor",0.4107202380952382,0.8678214285714276,"08/22/2019, 16:07:38","Best Params: {'max_features': 'auto', 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 100}"
+"GridSearchCV(cv=3, error_score='raise',
+       estimator=RandomForestRegressor",0.4401757464757461,0.8749219336219335,"08/22/2019, 16:12:37","Best Params: {'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 125}"
+"GridSearchCV(cv=3, error_score='raise',
+       estimator=RandomForestRegressor",0.4122898295120516,0.8642460317460314,"08/22/2019, 16:17:45","Best Params: {'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 135}"
+"GridSearchCV(cv=3, error_score='raise',
+       estimator=RandomForestRegressor",0.38401822457377977,0.8747971781305115,"08/22/2019, 16:19:52","Best Params: {'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 135}"
+"GridSearchCV(cv=3, error_score='raise',
+       estimator=RandomForestRegressor",0.435090473415474,0.8616926517926484,"08/22/2019, 16:23:19","Best Params: {'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 1000}"
+"GridSearchCV(cv=3, error_score='raise',
+       estimator=RandomForestRegressor",0.4138410560632786,0.8676014109347449,"08/22/2019, 16:25:34","Best Params: {'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 135}"
+"GridSearchCV(cv=3, error_score='raise',
+       estimator=RandomForestRegressor",0.44061848645182,0.8767068836513281,"08/22/2019, 16:26:25","Best Params: {'min_samples_leaf': 2, 'min_samples_split': 6, 'n_estimators': 135}"
+RandomForestRegressor,0.3,1.0,"08/22/2019, 18:16:23",Run with splits along sesson1.
+RandomForestRegressor,0.3,0.8999999999999999,"08/22/2019, 18:17:23",Run with splits along sesson5.
+RandomForestRegressor,0.2999999999999998,0.8500000000000003,"08/22/2019, 18:18:10",Run with splits along sesson15.
+RandomForestRegressor,0.3,0.8000000000000007,"08/22/2019, 18:19:49",Run with splits along sesson30.
