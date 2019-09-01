@@ -1,0 +1,26 @@
+model,train_Median,test_Median,time,run_notes
+LinearRegression,1.1230771672532451,1.1516048442103257,"08/25/2019, 19:09:01",None
+LinearRegression,1.1230771672532451,1.1516048442103257,"08/25/2019, 19:09:44",Linear Regression Baseline
+LinearRegression,1.2180226345718723,1.2180226345718723,"08/25/2019, 19:09:54","Only ""Before"" & ""symptom_a"" features."
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:10:07",None
+RandomForestRegressor,0.30000000000000004,0.9,"08/25/2019, 19:10:39",Randome Forest Baseline
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:12:27",Run with all the engineered features
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:12:28",Run with all engineered features and normalized.
+RandomForestRegressor,0.3,0.9,"08/25/2019, 19:12:29",Run with all engineered features and MinMaxed.
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:12:29",Run with all engineered features and Standardized.
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:13:57",Run with all the engineered features
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:13:58",Run with all engineered features and normalized.
+RandomForestRegressor,0.30000000000000004,0.8999999999999999,"08/25/2019, 19:13:59",Run with all engineered features and MinMaxed.
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:13:59",Run with all engineered features and Standardized.
+RandomForestRegressor,0.30000000000000004,0.9,"08/25/2019, 19:14:31",Run with all the engineered features
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:14:32",Run with all engineered features and normalized.
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:14:32",Run with all engineered features and MinMaxed.
+RandomForestRegressor,0.30000000000000004,0.8999999999999999,"08/25/2019, 19:14:33",Run with all engineered features and Standardized.
+RandomForestRegressor,0.30000000000000004,0.8999999999999999,"08/25/2019, 19:14:40",Run with all the engineered features
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:14:41",Run with all engineered features and normalized.
+RandomForestRegressor,0.30000000000000004,0.9,"08/25/2019, 19:14:41",Run with all engineered features and MinMaxed.
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:14:42",Run with all engineered features and Standardized.
+RandomForestRegressor,0.30000000000000004,0.9,"08/25/2019, 19:14:52",Run with all the engineered features
+RandomForestRegressor,0.3,0.8999999999999999,"08/25/2019, 19:14:53",Run with all engineered features and normalized.
+RandomForestRegressor,0.30000000000000004,0.8999999999999999,"08/25/2019, 19:14:54",Run with all engineered features and MinMaxed.
+RandomForestRegressor,0.30000000000000004,0.8999999999999999,"08/25/2019, 19:14:54",Run with all engineered features and Standardized.
